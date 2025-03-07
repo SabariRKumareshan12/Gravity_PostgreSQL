@@ -1,1 +1,1 @@
-CREATE DATABASE gravity_books;
+CREATE DATABASE gravity;
